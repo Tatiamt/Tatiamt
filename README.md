@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Tatiana Torres 👋
 
-<!--
-**Tatiamt/Tatiamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst focused on customer behavior, marketing analytics, and business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I recently completed a Data Analytics program at TripleTen, where I worked with real-world datasets using Python, SQL, and data visualization tools.
+
+I enjoy exploring data to identify patterns, understand customer behavior, and generate insights that support business decisions.
+
+---
+
+## Skills
+
+- Python (Pandas, NumPy)
+- SQL
+- Data Analysis
+- Data Visualization (Tableau, Matplotlib, Seaborn)
+- Excel
+- A/B Testing (basic)
+- Business & Customer Analytics
+
+---
+
+## Projects
+
+### 📊 Customer & Marketing Analytics — Y.Afisha
+- LTV, CAC, ROI analysis
+- Customer behavior insights  
+🔗 [View Project](https://github.com/Tatiamt/marketing-analytics-ltv-roi)
+
+---
+
+### 🛒 Product Prioritization — Online Store
+- ICE & RICE framework  
+- Data-driven product decisions  
+🔗 [View Project](https://github.com/Tatiamt/ab-testing-hypothesis-prioritization)
+
+---
+
+### 📈 Sales Funnel & A/B Testing Analysis
+- Funnel analysis  
+- User behavior & experimentation  
+🔗 [View Project](https://github.com/Tatiamt/user_behavior_funnel_ab_testing)
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/tatianamartinstorres  
+- Email: ttmtorres@gmail.com
