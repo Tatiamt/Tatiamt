@@ -1,6 +1,6 @@
 # Hi, I'm Tatiana Torres 👋
 
-Junior Data Analyst focused on customer behavior, marketing analytics, and business insights.
+Data Analyst focused on customer behavior, marketing analytics, and business insights.
 
 ---
 
